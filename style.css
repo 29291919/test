@@ -13,8 +13,7 @@ html{
 /* Navigation bar*/
 #navbar{
     display:flex;
-    align-items: center;
-    position: sticky;
+    align-items: center;s
     top: 0px;
 }
 #navbar::before{
